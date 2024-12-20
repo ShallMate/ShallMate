@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm ShallMate! 👋
 
-<!--
-**ShallMate/ShallMate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a PhD student at Shanghai Jiao Tong University, specializing in Applied Cryptography. My research focuses on privacy-preserving technologies such as Private Set Intersection (PSI) and additive homomorphic encryption. In addition, I am researching some techniques for data ownership confirmation.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning advanced privacy-preserving technologies related to cryptography.
+- 💬 Ask me about privacy-preserving technologies, cryptographic protocols, and anything related to applied cryptography.
+- 📫 How to reach me: gw_ling@sjtu.edu.cn
+- ⚡ Fun fact: I love playing football and watching football matches.
+
+## 📚 Education
+
+- 🏫 **PhD in Cyberspace Security**, Shanghai Jiao Tong University (Present)
+- 🏫 **Master of Science in Computer Science and Technology**, Chongqing University of Posts and Telecommunications (2023)
+- 🏫 **Bachelor of Engineering in Software Engineering**, Chongqing University of Posts and Telecommunications (2020)
+
+## 🛠️ Technologies & Tools
+
+- Programming Languages: C++, Golang, Python
+
+## 📫 Orcid
+
+- [ORCID](https://orcid.org/0000-0002-2789-8952)
