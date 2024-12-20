@@ -1,6 +1,6 @@
 # Hi there, I'm ShallMate! 👋
 
-I'm a PhD student at Shanghai Jiao Tong University, specializing in Applied Cryptography. My research focuses on privacy-preserving technologies such as Private Set Intersection (PSI) and additive homomorphic encryption. In addition, I am researching some techniques for data ownership confirmation.
+I'm a PhD student at Shanghai Jiao Tong University, specializing in Applied Cryptography. My research focuses on privacy-preserving technologies such as Private Set Intersection (PSI) and additive homomorphic encryption. In addition, I am researching some techniques for data ownership confirmation. I also serve as a peer reviewer for prestigious journals, including IEEE Transactions on Information Forensics and Security (TIFS) and Journal of Systems Architecture (JSA).
 
 ## 🚀 About Me
 
