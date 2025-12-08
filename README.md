@@ -1,6 +1,6 @@
 # Hi there, I'm ShallMate! 👋
 
-I'm a PhD student at Shanghai Jiao Tong University, specializing in Applied Cryptography. My research focuses on privacy-preserving technologies such as Private Set Intersection (PSI) and additive homomorphic encryption. In addition, I am researching some techniques for data ownership confirmation. My research has been published in high-quality journals such as IEEE Transactions on Information Forensics and Security (TIFS), IEEE Transactions on Dependable and Secure Computing (TDSC), and IEEE Transactions on Services Computing (TSC). I also serve as a peer reviewer for prestigious journals, including IEEE Transactions on Information Forensics and Security (TIFS) and Journal of Systems Architecture (JSA).
+I'm a PhD student at Shanghai Jiao Tong University, specializing in Applied Cryptography. My research focuses on privacy-preserving technologies such as Private Set Intersection (PSI) and additive homomorphic encryption. In addition, I am researching some techniques for data ownership confirmation. My research has been published in high-quality conferences and journals, including Network and Distributed System Security (NDSS), IEEE Transactions on Information Forensics and Security (TIFS), IEEE Transactions on Dependable and Secure Computing (TDSC), and IEEE Transactions on Services Computing (TSC). I also serve as a peer reviewer for prestigious journals, including IEEE Transactions on Information Forensics and Security (TIFS) and Journal of Systems Architecture (JSA).
 
 ## 🚀 About Me
 
@@ -11,7 +11,9 @@ I'm a PhD student at Shanghai Jiao Tong University, specializing in Applied Cryp
 
 ## 📚 Education
 
-- 🏫 **PhD in Cyberspace Security**, Shanghai Jiao Tong University (Present)
+
+- 🏫 **PhD Student in Cyberspace Security**, Shanghai Jiao Tong University (Present)
+- 🏫 **Visiting PhD Student in Cyberspace Security**, Nanyang Technological University (Present)
 - 🏫 **Master of Science in Computer Science and Technology**, Chongqing University of Posts and Telecommunications (2023)
 - 🏫 **Bachelor of Engineering in Software Engineering**, Chongqing University of Posts and Telecommunications (2020)
 
