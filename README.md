@@ -12,10 +12,9 @@ I'm a PhD student at Shanghai Jiao Tong University, specializing in Applied Cryp
 ## 📚 Education
 
 
-- 🏫 **PhD Student in Cyberspace Security**, Shanghai Jiao Tong University (Present)
-- 🏫 **Visiting PhD Student in Cyberspace Security**, Nanyang Technological University (Present)
-- 🏫 **Master of Science in Computer Science and Technology**, Chongqing University of Posts and Telecommunications (2023)
-- 🏫 **Bachelor of Engineering in Software Engineering**, Chongqing University of Posts and Telecommunications (2020)
+- 🏫 **PhD Student in Cyberspace Security**, Shanghai Jiao Tong University 
+- 🏫 **Visiting PhD Student in Cyberspace Security**, Nanyang Technological University
+- 🏫 **Bachelor of Engineering in Software Engineering**, Chongqing University of Posts and Telecommunications
 
 ## 🛠️ Technologies & Tools
 
